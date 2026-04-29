@@ -1,0 +1,14 @@
+C:\Users\matiu\Downloads\ONLINEKILL\OnlineKill.Server\bin\Release\net8.0\OnlineKill.Server.exe
+C:\Users\matiu\Downloads\ONLINEKILL\OnlineKill.Server\bin\Release\net8.0\OnlineKill.Server.deps.json
+C:\Users\matiu\Downloads\ONLINEKILL\OnlineKill.Server\bin\Release\net8.0\OnlineKill.Server.runtimeconfig.json
+C:\Users\matiu\Downloads\ONLINEKILL\OnlineKill.Server\bin\Release\net8.0\OnlineKill.Server.dll
+C:\Users\matiu\Downloads\ONLINEKILL\OnlineKill.Server\bin\Release\net8.0\OnlineKill.Server.pdb
+C:\Users\matiu\Downloads\ONLINEKILL\OnlineKill.Server\obj\Release\net8.0\OnlineKill.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matiu\Downloads\ONLINEKILL\OnlineKill.Server\obj\Release\net8.0\OnlineKill.Server.AssemblyInfoInputs.cache
+C:\Users\matiu\Downloads\ONLINEKILL\OnlineKill.Server\obj\Release\net8.0\OnlineKill.Server.AssemblyInfo.cs
+C:\Users\matiu\Downloads\ONLINEKILL\OnlineKill.Server\obj\Release\net8.0\OnlineKill.Server.csproj.CoreCompileInputs.cache
+C:\Users\matiu\Downloads\ONLINEKILL\OnlineKill.Server\obj\Release\net8.0\OnlineKill.Server.dll
+C:\Users\matiu\Downloads\ONLINEKILL\OnlineKill.Server\obj\Release\net8.0\refint\OnlineKill.Server.dll
+C:\Users\matiu\Downloads\ONLINEKILL\OnlineKill.Server\obj\Release\net8.0\OnlineKill.Server.pdb
+C:\Users\matiu\Downloads\ONLINEKILL\OnlineKill.Server\obj\Release\net8.0\OnlineKill.Server.genruntimeconfig.cache
+C:\Users\matiu\Downloads\ONLINEKILL\OnlineKill.Server\obj\Release\net8.0\ref\OnlineKill.Server.dll

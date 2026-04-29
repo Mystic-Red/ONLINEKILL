@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <LangVersion>10.0</LangVersion>
+    <AssemblyName>OnlineKill</AssemblyName>
+    <RootNamespace>OnlineKill</RootNamespace>
+    <Nullable>disable</Nullable>
+    <RestoreAdditionalProjectSources>
+      https://api.nuget.org/v3/index.json;
+      https://nuget.bepinex.dev/v3/index.json
+    </RestoreAdditionalProjectSources>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="BepInEx.Core" Version="5.4.21" />
+    <PackageReference Include="UnityEngine.Modules" Version="2022.3.29" />
+    <Reference Include="Assembly-CSharp" HintPath="..\Vanilla\Managed\Assembly-CSharp.dll" Private="false" />
+    <Reference Include="UnityEngine.UI" HintPath="..\Vanilla\Managed\UnityEngine.UI.dll" Private="false" />
+    <Reference Include="Unity.TextMeshPro" HintPath="..\Vanilla\Managed\Unity.TextMeshPro.dll" Private="false" />
+  </ItemGroup>
+</Project>

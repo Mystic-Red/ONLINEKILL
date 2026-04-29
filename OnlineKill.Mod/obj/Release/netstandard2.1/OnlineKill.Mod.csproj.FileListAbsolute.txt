@@ -1,0 +1,10 @@
+C:\Users\matiu\Downloads\ONLINEKILL\OnlineKill.Mod\bin\Release\netstandard2.1\OnlineKill.deps.json
+C:\Users\matiu\Downloads\ONLINEKILL\OnlineKill.Mod\bin\Release\netstandard2.1\OnlineKill.dll
+C:\Users\matiu\Downloads\ONLINEKILL\OnlineKill.Mod\bin\Release\netstandard2.1\OnlineKill.pdb
+C:\Users\matiu\Downloads\ONLINEKILL\OnlineKill.Mod\obj\Release\netstandard2.1\OnlineKill.Mod.csproj.AssemblyReference.cache
+C:\Users\matiu\Downloads\ONLINEKILL\OnlineKill.Mod\obj\Release\netstandard2.1\OnlineKill.Mod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matiu\Downloads\ONLINEKILL\OnlineKill.Mod\obj\Release\netstandard2.1\OnlineKill.Mod.AssemblyInfoInputs.cache
+C:\Users\matiu\Downloads\ONLINEKILL\OnlineKill.Mod\obj\Release\netstandard2.1\OnlineKill.Mod.AssemblyInfo.cs
+C:\Users\matiu\Downloads\ONLINEKILL\OnlineKill.Mod\obj\Release\netstandard2.1\OnlineKill.Mod.csproj.CoreCompileInputs.cache
+C:\Users\matiu\Downloads\ONLINEKILL\OnlineKill.Mod\obj\Release\netstandard2.1\OnlineKill.dll
+C:\Users\matiu\Downloads\ONLINEKILL\OnlineKill.Mod\obj\Release\netstandard2.1\OnlineKill.pdb

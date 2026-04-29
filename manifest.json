@@ -1,0 +1,9 @@
+{
+  "name": "OnlineKill",
+  "version_number": "0.1.0",
+  "website_url": "",
+  "description": "Experimental ULTRAKILL multiplayer mod using a dedicated UDP server instead of Steam networking.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+}
