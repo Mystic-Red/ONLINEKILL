@@ -42,7 +42,7 @@ In game:
 2. Enter the server IP, port, and your player name.
 3. Press `Connect`.
 
-## Why Not MultiplayerUtil?
+## Why Not Use MultiplayerUtil?
 
 `MultiplayerUtil` is useful, but its documentation and XML comments show it is built around Steam lobbies and Steam P2P. OnlineKill uses direct UDP because the goal here is a dedicated server that can run without Steam networking.
 
